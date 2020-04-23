@@ -1,6 +1,6 @@
 {
   "image": "672812193635.dkr.ecr.us-east-1.amazonaws.com/alpine:3.5-sftp-ssl",
-
+  "resources" : {},
   "container": {
     "entryPoint": [
       "/bin/sh",
